@@ -1,0 +1,3 @@
+2017-07-10 godzina: 14:36:05 
+ 
+Dzisiejszego dnia wyl¹dowa³em w hali produkcyjnej firmy PipeCon. Tam mierzyliœmy moc akustyczn¹, izolacyjnoœæ akustyczn¹ oraz czas pog³osu t³umika silnika statku. Wszystkie pomiary by³y wykonywane przy aparaturze Norsonic i 2 mikrofonów oraz 12 kana³owego g³oœnika z którego lecia³ szum ró¿owy. 

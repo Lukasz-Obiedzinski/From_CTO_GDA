@@ -1,0 +1,6 @@
+1
+11111111
+
+Imie: 111
+Nazwisko: 111
+Data urodzenia: 111
